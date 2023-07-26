@@ -15,7 +15,7 @@
 
 ## Tigrik
 - v pracovni
-- zabrete dvere
+- zavrete dvere (best practice je pouzit klucku vstavanu na dverach)
 
 ![obrazok Tigrikovho miesta na jedenie](Images/IMG_20230504_080155_HDR.jpg)
 
