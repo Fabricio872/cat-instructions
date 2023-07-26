@@ -26,5 +26,7 @@
 # Cistenie zachodu
 
 - oba zachody dones do chodby, otvor a prisun k hajzlu
+- zobrat lopatku na ciszenie macacieho zachodu
+![obrazok lopatky na cistenie macacieho hajzla](Images/IMG_20230726_125635_HDR.jpg)
 - prehadz hovna a chunky chcaniek do hajzla ale kusy chcaniek rozsekaj lopatkou na mensie aby sa neupchal
 ![obrazok macacieho a ludskeho hajzla](Images/IMG_20230504_074700_HDR.jpg)
