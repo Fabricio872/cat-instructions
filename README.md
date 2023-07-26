@@ -9,7 +9,13 @@
 
 ## Davkovanie
 - 1/4 konzervy na jedno jedlo 2X denne pre kazdu macku
-- po dokonceni konzervy co bude za 1 den nasledujuce jedlo granule z krabicky
+- po dokonceni konzervy co bude za 1 den nasledujuce jedlo granule z krabicky viz. tabulka nizzsie
+
+| den | rano    | vecer   |
+|-----|---------|---------|
+| 1.  | masko   | masko   |
+| 2.  | granule | masko   |
+| 3.  | masko   | granule |
 
 > vymen vodu raz za cas v miske v pracovni aj vo fontanke staci ju vyliat a napustit novu netreba nic umyvat
 
